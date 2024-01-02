@@ -3,8 +3,20 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/leaf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/entgo.io/ent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/filippo.io/edwards25519" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-openapi/inflect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/google/uuid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/inconshreveable/mousetrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-runewidth" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/name5566/leaf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/olekukonko/tablewriter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/rivo/uniseg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/spf13/cobra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/spf13/pflag" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/stretchr/testify" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/gopkg.in/mgo.v2" vcs="Git" />
   </component>
 </project>
